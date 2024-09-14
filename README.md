@@ -1,3 +1,9 @@
+Claro! Para adicionar as estatísticas do GitHub ao seu README, você pode usar o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), que permite exibir suas estatísticas de perfil. Vou incluir um exemplo de como adicionar isso ao seu README.
+
+Aqui está a versão atualizada com as estatísticas:
+
+---
+
 # Hello, World! 🌍  
 **Bem-vindos ao incrível mundo de AnnaClr!** 👋  
 
@@ -35,3 +41,10 @@ Aqui estão algumas curiosidades sobre mim:
 - Meus artistas favoritos são **The Neighbourhood**, **Avril Lavigne** e **Lana Del Rey**.  
 - Meu sonho é viajar pelo mundo.  
 - Quero fazer **mestrado** e **doutorado**, mas ainda estou decidindo em que área.  
+
+## 📊 GitHub Stats
+
+![AnnaClr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaClr&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=compact&theme=radical)
+
+![Snake animation](https://github.com/AnnaClr/AnnaClr/blob/output/github-contribution-grid-snake.svg)
