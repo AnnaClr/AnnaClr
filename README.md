@@ -40,5 +40,4 @@ Aqui estão algumas curiosidades sobre mim:
 
 ![AnnaClr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaClr&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=compact&theme=radical)
-
 ![Snake animation](https://github.com/AnnaClr/AnnaClr/blob/output/github-contribution-grid-snake.svg)
