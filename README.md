@@ -1,9 +1,3 @@
-Claro! Para adicionar as estatísticas do GitHub ao seu README, você pode usar o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), que permite exibir suas estatísticas de perfil. Vou incluir um exemplo de como adicionar isso ao seu README.
-
-Aqui está a versão atualizada com as estatísticas:
-
----
-
 # Hello, World! 🌍  
 **Bem-vindos ao incrível mundo de AnnaClr!** 👋  
 
