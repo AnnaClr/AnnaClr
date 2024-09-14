@@ -37,6 +37,8 @@ Aqui estão algumas curiosidades sobre mim:
 - Quero fazer **mestrado** e **doutorado**, mas ainda estou decidindo em que área.  
 
 ## 📊 GitHub Stats
-
-![AnnaClr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaClr&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=compact&theme=radical)
+<div>
+<a href="https://github.com/AnnaClr">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaClr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
