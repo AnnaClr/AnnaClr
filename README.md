@@ -12,7 +12,8 @@ Sou estudante do primeiro período de **Ciência da Computação** e apaixonada 
 
 ## 🚀 O que estou aprendendo:
 - **Java**  
-- **Angular** & **Spring Boot**  
+- **Angular**
+- **Spring Boot**  
 - **Python**
 - **PowerBI**
 
@@ -21,6 +22,7 @@ Sou estudante do primeiro período de **Ciência da Computação** e apaixonada 
 - **Bootcamp Engenharia de Dados com Python** - NTT DATA  
 - **Bootcamp Spring Boot e Angular** - Deal  
 - **Especialização Backend** - Oracle Next Education (ONE) + Alura
+- **Imersão em Games** - Cubos Academy
 
 ## 🎯 O que quero aprender:
 - **.NET**  
@@ -31,10 +33,9 @@ Sou estudante do primeiro período de **Ciência da Computação** e apaixonada 
 - E muito mais!
 
 ## Sobre mim 📝  
-Aqui estão algumas curiosidades sobre mim:
 - Eu amo desenhar e escrever! Pretendo publicar livros no futuro.  
-- Gosto de assistir séries com mil temporadas, mas não suporto uma hora de filme (hehe).  
-- Antes de entrar em Ciência da Computação, já quis fazer Design de Moda, Fotografia, Direito, Astronomia, Medicina... Sou uma pessoa indecisa!  
+- Gosto de assistir séries com mil temporadas, mas não suporto uma hora de filme.  
+- Antes de entrar em Ciência da Computação, já quis fazer Design de Moda, Fotografia, Direito, Psicologia, Astronomia, Medicina... Sou uma pessoa indecisa.
 - Meus artistas favoritos são **The Neighbourhood**, **Avril Lavigne** e **Lana Del Rey**.  
 - Meu sonho é viajar pelo mundo.  
 - Quero fazer **mestrado** e **doutorado**, mas ainda estou decidindo em que área.  
