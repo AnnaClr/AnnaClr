@@ -4,7 +4,9 @@
 Sou estudante do primeiro período de **Ciência da Computação** e apaixonada por tecnologia. Concluí um curso de **Desenvolvimento Web** em 2023, onde desenvolvi habilidades para criar websites e colaborar na construção de sistemas web. Além disso, sou uma pessoa com grande capacidade de **resolução de problemas** e **aprendizado rápido**.
 
 ## 💻 O que domino:
-- **JavaScript** (React, Node.js)
+- **JavaScript**
+- **React**
+- **Node.js**
 - **MySQL**
 - **Git & GitHub**
 
@@ -12,6 +14,7 @@ Sou estudante do primeiro período de **Ciência da Computação** e apaixonada 
 - **Java**  
 - **Angular** & **Spring Boot**  
 - **Python**
+- **PowerBI**
 
 ## 📚 Cursos em andamento:
 - **Desenvolvimento Full Stack** - Capacita Brasil, C-Jovem  
@@ -22,8 +25,8 @@ Sou estudante do primeiro período de **Ciência da Computação** e apaixonada 
 ## 🎯 O que quero aprender:
 - **.NET**  
 - **C#**  
-- **TypeScript**  
-- **PowerBI**  
+- **TypeScript**
+- **Next.js**
 - **Docker**  
 - E muito mais!
 
