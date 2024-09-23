@@ -25,10 +25,9 @@ Sou estudante do primeiro período de **Ciência da Computação** e apaixonada 
 - **Imersão em Games** - Cubos Academy
 
 ## 🎯 O que quero aprender:
-- **.NET**  
-- **C#**  
+- **.NET C#**  
 - **TypeScript**
-- **Next.js**
+- **PHP**
 - **Docker**  
 - E muito mais!
 
