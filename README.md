@@ -18,18 +18,10 @@ Sou estudante do primeiro período de **Ciência da Computação** e apaixonada 
 - **PowerBI**
 
 ## 📚 Cursos em andamento:
-- **Desenvolvimento Full Stack** - Capacita Brasil, C-Jovem  
+- **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem  
 - **Bootcamp Engenharia de Dados com Python** - NTT DATA  
 - **Bootcamp Spring Boot e Angular** - Deal  
 - **Especialização Backend** - Oracle Next Education (ONE) + Alura
-- **Imersão em Games** - Cubos Academy
-
-## 🎯 O que quero aprender:
-- **.NET C#**  
-- **TypeScript**
-- **PHP**
-- **Docker**  
-- E muito mais!
 
 ## Sobre mim 📝  
 - Eu amo desenhar e escrever! Pretendo publicar livros no futuro.  
