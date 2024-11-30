@@ -1,4 +1,4 @@
-# Hello, World! 🌍  
+# System.out.println("Hello World! 🌍")
 **Bem-vindos ao incrível mundo de AnnaClr!** 👋  
 
 Sou estudante do segundo período de **Ciência da Computação** e apaixonada por tecnologia. Concluí um curso de **Desenvolvimento Web** em 2023, onde desenvolvi habilidades para criar websites e colaborar na construção de sistemas web. Além disso, sou uma pessoa com grande capacidade de **resolução de problemas** e **aprendizado rápido**.
@@ -11,25 +11,14 @@ Sou estudante do segundo período de **Ciência da Computação** e apaixonada p
 - **Git & GitHub**
 
 ## 🚀 O que estou aprendendo:
-- **Java**  
-- **Angular**
-- **Spring Boot**  
+- **Java**   
 - **Python**
-- **PowerBI**
+- **C**
 
 ## 📚 Cursos em andamento:
+- **Machine Learning Practitioner** - BairesDev
 - **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem  
-- **Bootcamp Engenharia de Dados com Python** - NTT DATA  
-- **Bootcamp Spring Boot e Angular** - Deal  
 - **Especialização Backend** - Oracle Next Education (ONE) + Alura
-
-## Sobre mim 📝  
-- Eu amo desenhar e escrever! Pretendo publicar livros no futuro.  
-- Gosto de assistir séries com mil temporadas, mas não suporto uma hora de filme.  
-- Antes de entrar em Ciência da Computação, já quis fazer Design de Moda, Fotografia, Direito, Psicologia, Astronomia, Medicina... Sou uma pessoa indecisa.
-- Meus artistas favoritos são **The Neighbourhood**, **Avril Lavigne** e **Lana Del Rey**.  
-- Meu sonho é viajar pelo mundo.  
-- Quero fazer **mestrado** e **doutorado**, mas ainda estou decidindo em que área.  
 
 ## 📊 GitHub Stats
 <div>
