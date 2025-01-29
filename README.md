@@ -1,24 +1,25 @@
-# System.out.println("Hello World! 🌍")
+# print("Hello World🌍")
 **Bem-vindos ao incrível mundo de AnnaClr!** 👋  
 
 Sou estudante do segundo período de **Ciência da Computação** e apaixonada por tecnologia. Concluí um curso de **Desenvolvimento Web** em 2023, onde desenvolvi habilidades para criar websites e colaborar na construção de sistemas web. Além disso, sou uma pessoa com grande capacidade de **resolução de problemas** e **aprendizado rápido**.
 
-## 💻 O que domino:
+## 💻 O QUE EU DOMINO:
 - **JavaScript**
 - **React**
 - **Node.js**
 - **MySQL**
 - **Git & GitHub**
 
-## 🚀 O que estou aprendendo:
+## 🚀 O QUE ESTOU APREDENDO:
 - **Java**   
 - **Python**
 - **C**
 
-## 📚 Cursos em andamento:
-- **Machine Learning Practitioner** - BairesDev
-- **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem  
-- **Especialização Backend** - Oracle Next Education (ONE) + Alura
+## 📚 CURSOS REALIZADOS:
+- **Desenvolvimento Web** - Centro Vocacional Tecnológico (CVT) || FINALIZADO
+- **Lógica de Programação com Java** - MetaHub + Descomplica || FINALIZADO
+- **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem || EM ANDAMENTO
+- **Especialização Backend** - Oracle Next Education (ONE) + Alura || EM ANDAMENTO
 
 ## 📊 GitHub Stats
 <div>
