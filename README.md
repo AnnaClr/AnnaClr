@@ -14,6 +14,7 @@ Sou estudante do segundo período de **Ciência da Computação** e apaixonada p
 - **Java**   
 - **Python**
 - **C**
+- **PostgreSQL**
 
 ## 📚 CURSOS REALIZADOS:
 - **Desenvolvimento Web** - Centro Vocacional Tecnológico (CVT) || FINALIZADO
