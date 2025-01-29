@@ -1,4 +1,4 @@
-# print("Hello World🌍")
+# PRINT("HELLO WORLD🌍")
 **Bem-vindos ao incrível mundo de AnnaClr!** 👋  
 
 Sou estudante do segundo período de **Ciência da Computação** e apaixonada por tecnologia. Concluí um curso de **Desenvolvimento Web** em 2023, onde desenvolvi habilidades para criar websites e colaborar na construção de sistemas web. Além disso, sou uma pessoa com grande capacidade de **resolução de problemas** e **aprendizado rápido**.
