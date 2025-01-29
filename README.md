@@ -17,7 +17,8 @@ Sou estudante do segundo período de **Ciência da Computação** e apaixonada p
 
 ## 📚 CURSOS REALIZADOS:
 - **Desenvolvimento Web** - Centro Vocacional Tecnológico (CVT) || FINALIZADO
-- **Lógica de Programação com Java** - MetaHub + Descomplica || FINALIZADO
+- **Lógica de Programação com Java** - BetaHub + Descomplica || FINALIZADO
+- **Imersão de Games** - CubosAcademy || FINALIZADO
 - **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem || EM ANDAMENTO
 - **Especialização Backend** - Oracle Next Education (ONE) + Alura || EM ANDAMENTO
 
