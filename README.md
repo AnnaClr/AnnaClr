@@ -24,30 +24,42 @@ Sou estudante do segundo período de **Ciência da Computação** e apaixonada p
 
 ## 🚀 TECH STACK:
 
+  <br>
+
+### <h2 align="center">☕ Linguagens</h2>
+<p align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin: 15px;" />
+</p>
+
+  <br>
+  
 ### <h2 align="center">🖥️ Frontend</h2>
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" style="margin: 15px;" />
 </p>
+
+  <br>
 
 ### <h2 align="center">⚙️ Backend</h2>
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 15px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 15px;" />
 </p>
+
+  <br>
 
 ---
 
-## ☕ CONECTE-SE COMIGO!
+## 🦋 CONECTE-SE COMIGO!
   <br>
 <p align="center">
   <a href="https://github.com/AnnaClr" target="_blank">
