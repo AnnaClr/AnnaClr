@@ -45,12 +45,6 @@ Sou estudante do segundo período de **Ciência da Computação** e apaixonada p
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin: 10px;" />
 </p>
 
-### <h2 align="center">🛠️ DevOps</h2>
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px;" />
-</p>
-
 ---
 
 ## ☕ CONECTE-SE COMIGO!
