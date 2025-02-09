@@ -135,7 +135,7 @@ Olá, mundo! Meu nome é Ana Clara, atualmente estou np segundo período de **Ci
       src="https://awesome-github-stats.azurewebsites.net/user-stats/AnnaClr?cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB" 
       />
   </a>
-  <img align="right" width="45%" 
+  <img align="right" width="40%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=donut-vertical&bg_color=00000000&Text=FFFFFF&title_color=EB0052&border_color=0014EB&card_width=200&langs_count=10" 
     alt="Linguagens mais usadas">
 
@@ -145,6 +145,8 @@ Olá, mundo! Meu nome é Ana Clara, atualmente estou np segundo período de **Ci
   <!-- Estatísticas de Streak -->
   <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=AnnaClr&theme=dracula&card_height=250&border=0014EB&ring=EB0052&fire=EBB300&stroke=0014EB&currStreakNum=EB00E5&sideLabels=00AEEB&sideNums=9B00EB&background=EB545400" 
-        alt="GitHub Streak" />
+        alt="GitHub Streak"
+        width="50%" 
+        />
   </a>
 </p>
