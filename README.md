@@ -127,7 +127,25 @@ Sou estudante do segundo período de **Ciência da Computação** e apaixonada p
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%E2%AD%90+MY+GITHUB+STARTS:" alt="Typing SVG" /></a>
+<div align="center">
+  <!-- Estatísticas de Linguagens -->
+  <img align="right" width="45%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&cardType=github&bg_color=00000000&Text=FFFFFF&title_color=FF79C6&border_color=FF79C6&card_width=200" 
+    alt="Linguagens mais usadas">
+  
+  <!-- Estatísticas Gerais do GitHub -->
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=FF79C6&Ring=FF79C6&Border=FF79C6">
+    <img width="50%" alt="Estatísticas do GitHub" 
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/AnnaClr?cardType=github&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=FF79C6&Ring=FF79C6&Border=FF79C6" />
+  </a>
+</div>
+
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=compact&langs_count=7&theme=radical"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaClr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- Estatísticas de Streak -->
+  <a href="https://git.io/streak-stats">
+    <img width="50%" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=AnnaClr&theme=dracula&background=00000000&border=FF79C6&ring=FF79C6&stroke=FF79C6&fire=FF79C6&currStreakNum=FF79C6&sideNums=FF79C6&currStreakLabel=FF79C6&dates=FF79C6" 
+      alt="GitHub Streak" />
+  </a>
 </p>
+
