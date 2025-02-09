@@ -10,7 +10,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eprint(%22Hello%2C+World!%22);%3Eprintf(%22Hello%2C+World!%22);%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'AnnaClr';" alt="Typing SVG" /></a>
 
-Sou estudante do segundo período de **Ciência da Computação** e apaixonada por tecnologia. Concluí um curso de **Desenvolvimento Web** em 2023, onde desenvolvi habilidades para criar websites e colaborar na construção de sistemas web. Além disso, sou uma pessoa com grande capacidade de **resolução de problemas** e **aprendizado rápido**.
+Olá, mundo! Meu nome é Ana Clara, atualmente estou np segundo período de **Ciência da Computação** e sou apaixonada por tecnologia. Concluí um curso de **Desenvolvimento Web** em 2023, onde aprimorei minhas habilidades em React (Front-End) e Node.js (Back-End). Tenho experiência na criação de websites e no desenvolvimento de sistemas web, utilizando HTML, CSS, JavaScript e bancos de dados SQL. Estou sempre em busca de novos desafios e aprendizados para evoluir ainda mais nessa área! Além disso, sou uma pessoa com grande capacidade de **resolução de problemas** e **aprendizado rápido** 🚀
 
 ---
 
