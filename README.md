@@ -127,25 +127,24 @@ Olá, mundo! Meu nome é Ana Clara, atualmente estou np segundo período de **Ci
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%E2%AD%90+MY+GITHUB+STARTS:" alt="Typing SVG" /></a>
+
 <div align="center">
-  <!-- Estatísticas de Linguagens -->
-  <img align="right" width="45%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&cardType=github&bg_color=00000000&Text=FFFFFF&title_color=FF79C6&border_color=FF79C6&card_width=200" 
-    alt="Linguagens mais usadas">
-  
-  <!-- Estatísticas Gerais do GitHub -->
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=FF79C6&Ring=FF79C6&Border=FF79C6">
-    <img width="50%" alt="Estatísticas do GitHub" 
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/AnnaClr?cardType=github&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=FF79C6&Ring=FF79C6&Border=FF79C6" />
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB">
+    <img alt="AnnaClr's GitHub Stats" width="50%"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/AnnaClr?cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB" 
+      />
   </a>
+  <img align="right" width="45%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=donut-vertical&bg_color=00000000&Text=FFFFFF&title_color=EB0052&border_color=0014EB&card_width=200&langs_count=10" 
+    alt="Linguagens mais usadas">
+
 </div>
 
 <p align="center">
   <!-- Estatísticas de Streak -->
   <a href="https://git.io/streak-stats">
-    <img width="50%" 
-      src="https://github-readme-streak-stats.herokuapp.com?user=AnnaClr&theme=dracula&background=00000000&border=FF79C6&ring=FF79C6&stroke=FF79C6&fire=FF79C6&currStreakNum=FF79C6&sideNums=FF79C6&currStreakLabel=FF79C6&dates=FF79C6" 
-      alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=AnnaClr&theme=dracula&card_height=250&border=0014EB&ring=EB0052&fire=EBB300&stroke=0014EB&currStreakNum=EB00E5&sideLabels=00AEEB&sideNums=9B00EB&background=EB545400" 
+        alt="GitHub Streak" />
   </a>
 </p>
-
