@@ -25,52 +25,80 @@ Sou estudante do segundo período de **Ciência da Computação** e apaixonada p
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%9A%80+TECH+STACK:" alt="Typing SVG" /></a>
 
-<table align="center">
+
+<a href="https://git.io/typing![Uploading icons8-python-200.png…]()
+-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%9A%80+TECH+STACK:" alt="Typing SVG" /></a>
+
+<p align="center">
+  <table align="center">
     <tr>
-        <td align="center">
-            <img style="width: 85%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5-logo"/>
-            <br>HTML
-        </td>
-        <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3-logo"/>
-            <br>CSS
-        </td>
-        <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java-coffee-cup-logo"/>
-            <br>Java
-        </td>
-        <td align="center">
-            <img style="width: 85%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-logo"/>
-            <br>Python
-        </td>
-        <td align="center">
-            <img style="width: 65%; max-width: 200px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript-logo"/>
-            <br>JavaScript
-        </td>
-        <td align="center">
-            <img style="width: 100%; max-width: 1000px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c-logo"/>
-            <br>C
-        </td>
-        <td align="center">
-            <img style="width: 70%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs-logo"/>
-            <br>Node.js
-        </td>
-        <td align="center">
-            <img style="width: 85%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-logo"/>
-            <br>React
-        </td>
-        <td align="center">
-            <img style="width: 80%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql-logo"/>
-            <br>MySQL
-        </td>
-        <td align="center">
-            <img style="width: 65%; max-width: 300px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql-logo"/>
-            <br>PostgreSQL
-        </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://github.com/user-attachments/assets/94ff82dd-43b4-4b84-9f52-b4211fe24350" width="100">
+          <br><b>HTML</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://github.com/user-attachments/assets/9eacde22-14de-4898-9490-ec8615a2bb19" width="100">
+          <br><b>CSS</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://github.com/user-attachments/assets/cc51410d-9af2-4d1a-94a0-c09ef14fb0b0" width="100">
+          <br><b>JavaScript</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://react.dev/">
+          <img src="https://github.com/user-attachments/assets/7414b56b-a4f3-48d5-b518-0b5258670b98" width="100">
+          <br><b>React</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/">
+          <img src="https://github.com/user-attachments/assets/94604090-9427-45da-8f34-e32f53811172" width="100">
+          <br><b>NodeJS</b>
+        </a>
+      </td>
     </tr>
-</table>
+    <tr>
+      <td align="center">
+        <a href="https://www.python.org/">
+          <img src="https://github.com/user-attachments/assets/4cac8930-40d1-4677-bb96-ed328c2c64c1" width="100">
+          <br><b>Python</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.java.com/">
+          <img src="https://github.com/user-attachments/assets/f6af2d02-8400-40fa-bd62-8e6d4da59dcb" width="100">
+          <br><b>Java</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+          <img src="https://github.com/user-attachments/assets/7e41bc03-5c56-4e00-b6bb-bc9aa29fcefa" width="100">
+          <br><b>C</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.mysql.com/">
+          <img src="https://github.com/user-attachments/assets/ca78e67e-c7e0-4af8-a60b-4fd92a7ff0e7" width="100">
+          <br><b>MySQL</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.postgresql.org/">
+          <img src="https://github.com/user-attachments/assets/61f55ad7-9c68-4a8d-a81f-88a636ab4661" width="100">
+          <br><b>PostgreSQL</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 <br>
 
