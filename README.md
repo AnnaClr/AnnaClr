@@ -1,12 +1,12 @@
 <h1 align="center">
-  PRINT("HELLO WORLD🌍")
+  PRINT("HELLO, WORLD!🌍")
   <br>
   🚀 Bem-vindos ao incrível mundo de <i>AnnaClr!</i>
 </h1>
+<br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" height="auto" />
-</p>
+![BANNER](https://github.com/user-attachments/assets/611c6820-c6c6-4710-b208-404dae969fe1)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eprint(%22Hello%2C+World!%22);%3Eprintf(%22Hello%2C+World!%22);%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'AnnaClr';" alt="Typing SVG" /></a>
 
@@ -15,13 +15,12 @@ Olá, mundo! Meu nome é Ana Clara, atualmente estou np segundo período de **Ci
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%93%9A+CURSOS+REALIZADOS:" alt="Typing SVG" /></a>
-
-✅ **Desenvolvimento Web** - CVT Jucaense (CENTEC)  
-✅ **Lógica de Programação com Java** - BetaHub + Descomplica  
-✅ **Imersão de Games** - CubosAcademy  
-🚀 **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem *(em andamento)*  
-🚀 **Machine Learning** - Avanti Bootcamp *(em andamento)*  
-🚀 **Especialização Backend** - Oracle Next Education (ONE) + Alura *(em andamento)*  
+- **Desenvolvimento Web** - CVT Jucaense (CENTEC)  
+- **Lógica de Programação com Java** - BetaHub + Descomplica  
+- **Imersão de Games** - CubosAcademy  
+- **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem *(em andamento)*  
+- **Machine Learning** - Avanti Bootcamp *(em andamento)*  
+- **Especialização Backend** - Oracle Next Education (ONE) + Alura *(em andamento)*  
 
 ---
 
@@ -136,7 +135,7 @@ Olá, mundo! Meu nome é Ana Clara, atualmente estou np segundo período de **Ci
       />
   </a>
   <img align="right" width="45%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=donut-vertical&bg_color=00000000&Text=FFFFFF&title_color=EB0052&border_color=0014EB&card_width=200&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&bg_color=00000000&Text=FFFFFF&title_color=EB0052&border_color=0014EB&card_width=200&langs_count=10" 
     alt="Linguagens mais usadas">
 
 </div>
