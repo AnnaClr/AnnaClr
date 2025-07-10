@@ -18,9 +18,7 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no terceiro semestre do C
 - **Desenvolvimento Web** - CVT Jucaense (CENTEC)  
 - **Lógica de Programação com Java** - BetaHub + Descomplica  
 - **Imersão de Games** - CubosAcademy  
-- **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem *(em andamento)*  
-- **Machine Learning** - Avanti Bootcamp *(em andamento)*  
-- **Especialização Data Science** - Oracle Next Education (ONE) + Alura *(em andamento)*  
+- **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem + UECE
 
 ---
 
