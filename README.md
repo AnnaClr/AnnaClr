@@ -1,7 +1,7 @@
 <h1 align="center">
-  PRINT("HELLO, WORLD!🌍")
+  Print("Hello, World!")
   <br>
-  🚀 Bem-vindos ao incrível mundo de <i>AnnaClr!</i>
+  Bem-vindos ao incrível mundo de <i>AnnaClr!</i>
 </h1>
 <br>
 
@@ -10,19 +10,22 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eprint(%22Hello%2C+World!%22);%3Eprintf(%22Hello%2C+World!%22);%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'AnnaClr';" alt="Typing SVG" /></a>
 
-Olá, mundo! Meu nome é Ana Clara, e atualmente estou no terceiro semestre do Curso de Bacharelado em **Ciência da Computação**. Concluí um curso de **Desenvolvimento Web** em 2023, onde aprimorei minhas habilidades em React (Front-End) e Node.js (Back-End). Tenho experiência na criação de websites e no desenvolvimento de sistemas web, utilizando HTML, CSS, JavaScript e bancos de dados SQL. Estou sempre em busca de novos desafios e aprendizados para evoluir ainda mais nessa área! 🚀
+Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Curso de Bacharelado em **Ciência da Computação**. Concluí um curso de **Desenvolvimento Web** em 2023, onde aprimorei minhas habilidades em React (Front-End) e Node.js (Back-End). Tenho experiência na criação de websites e no desenvolvimento de sistemas web, utilizando HTML, CSS, JavaScript e bancos de dados SQL. Estou sempre em busca de novos desafios e aprendizados para evoluir ainda mais nessa área! 🚀
 
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%93%9A+CURSOS+REALIZADOS:" alt="Typing SVG" /></a>
-- **Desenvolvimento Web** - CVT Jucaense (CENTEC)  
-- **Lógica de Programação com Java** - BetaHub + Descomplica  
-- **Imersão de Games** - CubosAcademy  
-- **Desenvolvimento FullStack** - Capacita Brasil, C-Jovem + UECE
+
+**_2024 - 2027_ | Bacharelado em Ciência da Computação**  
+*Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
+
+**_2022 - 2023_ | Desenvolvimento Web**  
+*Centro Vocacional de Tecnologia (CVT)*
+
+**_2024 - 2025_ | Capacitação em TIC - Desenvolvedor Fullstack**  
+*Universidade Estadual do Ceará, Escola Atlântico Avanti*
 
 ---
-
-
 
 <a href="https://git.io/typing![Uploading icons8-python-200.png…]()
 -svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%9A%80+TECH+STACK:" alt="Typing SVG" /></a>
@@ -95,8 +98,6 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no terceiro semestre do C
     </tr>
   </table>
 </p>
-
-
 <br>
 
 ---
@@ -107,9 +108,6 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no terceiro semestre do C
 <p align="center">
   <a href="https://github.com/AnnaClr" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="155"/>
-  </a>
-  <a href="https://twitter.com/anniewriters" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="138" />
   </a>
   <a href="https://linkedin.com/in/annaclrr" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="148"/>
@@ -123,27 +121,22 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no terceiro semestre do C
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%E2%AD%90+MY+GITHUB+STARTS:" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%E2%AD%90+MY+GITHUB+STARTS:" alt="Typing SVG" />
+</a>
 
-<div align="center">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB">
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/AnnaClr?cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB" 
+    alt="AnnaClr's GitHub Stats"
+    width="50%"
+  />
+</a>
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB">
-    <img alt="AnnaClr's GitHub Stats" width="50%"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/AnnaClr?cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB" 
-      />
-  </a>
-  <img align="right" width="45%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&bg_color=00000000&Text=FFFFFF&title_color=EB0052&border_color=0014EB&card_width=200&langs_count=10" 
-    alt="Linguagens mais usadas">
-
-</div>
-
-<p align="center">
-  <!-- Estatísticas de Streak -->
-  <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=AnnaClr&theme=dracula&card_height=250&border=0014EB&ring=EB0052&fire=EBB300&stroke=0014EB&currStreakNum=EB00E5&sideLabels=00AEEB&sideNums=9B00EB&background=EB545400" 
-        alt="GitHub Streak"
-        width="49%" 
-        />
-  </a>
-</p>
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://streak-stats.demolab.com?user=AnnaClr&theme=dracula&card_height=227&border=0014EB&ring=EB0052&fire=EBB300&stroke=0014EB&currStreakNum=EB00E5&sideLabels=00AEEB&sideNums=9B00EB&background=EB545400" 
+    alt="GitHub Streak"
+    width="49%"
+  />
+</a>
