@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center">
   Print("Hello, World!")
   <br>
@@ -5,7 +9,7 @@
 </h1>
 <br>
 
-![BANNER](https://github.com/user-attachments/assets/611c6820-c6c6-4710-b208-404dae969fe1)
+![BANNER](https://github.com/user-attachments/assets/2255b041-c2e0-4a9a-bceb-4aa819ba06e4)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eprint(%22Hello%2C+World!%22);%3Eprintf(%22Hello%2C+World!%22);%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'AnnaClr';" alt="Typing SVG" /></a>
@@ -34,65 +38,70 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
   <table align="center">
     <tr>
       <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://github.com/user-attachments/assets/94ff82dd-43b4-4b84-9f52-b4211fe24350" width="100">
+           <img src="https://github.com/user-attachments/assets/f880f547-8bc6-4c51-a06d-d8d75bff3a50" width="100">
           <br><b>HTML</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://github.com/user-attachments/assets/9eacde22-14de-4898-9490-ec8615a2bb19" width="100">
+          <img src="https://github.com/user-attachments/assets/b01b7faf-536c-4ceb-a07a-bb3af0489d39" width="100">
           <br><b>CSS</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://github.com/user-attachments/assets/cc51410d-9af2-4d1a-94a0-c09ef14fb0b0" width="100">
-          <br><b>JavaScript</b>
+          <img src="https://github.com/user-attachments/assets/8195964f-83f7-498a-91a8-16447bb21e0b" width="100">
+          <br><b>TypeScript</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://react.dev/">
-          <img src="https://github.com/user-attachments/assets/7414b56b-a4f3-48d5-b518-0b5258670b98" width="100">
-          <br><b>React</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://nodejs.org/">
-          <img src="https://github.com/user-attachments/assets/94604090-9427-45da-8f34-e32f53811172" width="100">
-          <br><b>NodeJS</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.python.org/">
-          <img src="https://github.com/user-attachments/assets/4cac8930-40d1-4677-bb96-ed328c2c64c1" width="100">
+          <img src="https://github.com/user-attachments/assets/89df1656-a4bb-47b0-9aae-66ac156e7f47" width="100">
           <br><b>Python</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.java.com/">
-          <img src="https://github.com/user-attachments/assets/f6af2d02-8400-40fa-bd62-8e6d4da59dcb" width="100">
+          <img src="https://github.com/user-attachments/assets/c905191e-c267-426e-a4b7-a02c3b427e27" width="100">
+          <br><b>JavaScript</b>
+        </a>
+      </td>
+      <td align="center">
+          <img src="https://github.com/user-attachments/assets/f7a36c22-1e3f-4b34-b04f-aa75d9644145" width="100">
           <br><b>Java</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
           <img src="https://github.com/user-attachments/assets/7e41bc03-5c56-4e00-b6bb-bc9aa29fcefa" width="100">
           <br><b>C</b>
         </a>
       </td>
+    </tr>
+    <tr>
+       <td align="center">
+          <img src="https://github.com/user-attachments/assets/1157d031-f049-4992-8c22-cfee2a8fdc54" width="100">
+          <br><b>React</b>
+        </a>
+      </td>
       <td align="center">
-        <a href="https://www.mysql.com/">
+          <img src="https://github.com/user-attachments/assets/94604090-9427-45da-8f34-e32f53811172" width="100">
+          <br><b>NodeJS</b>
+        </a>
+      </td>
+      <td align="center">
           <img src="https://github.com/user-attachments/assets/ca78e67e-c7e0-4af8-a60b-4fd92a7ff0e7" width="100">
           <br><b>MySQL</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.postgresql.org/">
           <img src="https://github.com/user-attachments/assets/61f55ad7-9c68-4a8d-a81f-88a636ab4661" width="100">
           <br><b>PostgreSQL</b>
+        </a>
+      </td>
+      <td align="center">
+          <img src="https://github.com/user-attachments/assets/15bd1850-72c3-43f9-835f-c983069d3055" width="100">
+          <br><b>Git</b>
+        </a>
+      </td>
+      <td align="center">
+          <img src="https://github.com/user-attachments/assets/0e5d8cd0-8c56-405f-a26c-488bf7a4a87c" width="100">
+          <br><b>Nest JS</b>
         </a>
       </td>
     </tr>
