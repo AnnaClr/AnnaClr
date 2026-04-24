@@ -133,12 +133,4 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
   </a>
 </p>
 
-<br>
-<a href="https://git.io/streak-stats">
-  <img 
-    src="https://streak-stats.demolab.com?user=AnnaClr&theme=dracula&card_height=227&border=0014EB&ring=EB0052&fire=EBB300&stroke=0014EB&currStreakNum=EB00E5&sideLabels=00AEEB&sideNums=9B00EB&background=EB545400" 
-    alt="GitHub Streak"
-    width="49%"
-  />
-</a> -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1fa5&height=130&section=footer"/>
