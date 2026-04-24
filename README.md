@@ -1,9 +1,5 @@
-
-
-
-
 <h1 align="center">
-  Print("Hello, World!")
+  Olá, mundo!
   <br>
   Bem-vindos ao incrível mundo de <i>AnnaClr!</i>
 </h1>
@@ -32,7 +28,7 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
 ---
 
 <a href="https://git.io/typing![Uploading icons8-python-200.png…]()
--svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%9A%80+TECH+STACK:" alt="Typing SVG" /></a>
+-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%9A%80+MY+SKILLS:" alt="Typing SVG" /></a>
 
 <p align="center">
   <table align="center">
@@ -68,7 +64,7 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
         </a>
       </td>
       <td align="center">
-          <img src="https://github.com/user-attachments/assets/7e41bc03-5c56-4e00-b6bb-bc9aa29fcefa" width="100">
+          <img src="https://github.com/user-attachments/assets/0b149914-7282-44e6-afa0-3f1260fc8676" width="100">
           <br><b>C</b>
         </a>
       </td>
@@ -85,12 +81,12 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
         </a>
       </td>
       <td align="center">
-          <img src="https://github.com/user-attachments/assets/ca78e67e-c7e0-4af8-a60b-4fd92a7ff0e7" width="100">
+          <img src="https://github.com/user-attachments/assets/a9d8f8d3-298b-4fca-891c-5e6dd4ecdb58" width="100">
           <br><b>MySQL</b>
         </a>
       </td>
       <td align="center">
-          <img src="https://github.com/user-attachments/assets/61f55ad7-9c68-4a8d-a81f-88a636ab4661" width="100">
+          <img src="https://github.com/user-attachments/assets/1ef7322d-2e38-43f8-9195-50d681aedc30" width="100">
           <br><b>PostgreSQL</b>
         </a>
       </td>
@@ -100,8 +96,13 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
         </a>
       </td>
       <td align="center">
-          <img src="https://github.com/user-attachments/assets/0e5d8cd0-8c56-405f-a26c-488bf7a4a87c" width="100">
+          <img src="https://github.com/user-attachments/assets/2a2a3000-a19e-4650-975b-1f83f302e220" width="100">
           <br><b>Nest JS</b>
+        </a>
+      </td>
+      <td align="center">
+          <img src="https://github.com/user-attachments/assets/8ddf25ea-0a29-4873-be90-86b84b5ee1c6" width="100">
+          <br><b>Next.js</b>
         </a>
       </td>
     </tr>
@@ -110,6 +111,12 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
 <br>
 
 ---
+
+![AnnaClr's Stats](https://github-readme-stats.vercel.app/api?username=AnnaClr&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![AnnaClr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnaClr&theme=radical&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnaClr&bg_color=2c223b&color=ff3ca2&line=f7f645&point=22e5f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+--- 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%A6%8B+CONECTE-SE+COMIGO!" alt="Typing SVG" /></a>
 
@@ -127,25 +134,11 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
 </p>
 
 <br>
-
----
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%E2%AD%90+MY+GITHUB+STARTS:" alt="Typing SVG" />
-</a>
-
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB">
-  <img 
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/AnnaClr?cardType=level&theme=dracula&preferLogin=true&Background=00000000&Text=FFFFFF&Title=EB0052&Ring=0014EB&Border=0014EB" 
-    alt="AnnaClr's GitHub Stats"
-    width="50%"
-  />
-</a>
-
 <a href="https://git.io/streak-stats">
   <img 
     src="https://streak-stats.demolab.com?user=AnnaClr&theme=dracula&card_height=227&border=0014EB&ring=EB0052&fire=EBB300&stroke=0014EB&currStreakNum=EB00E5&sideLabels=00AEEB&sideNums=9B00EB&background=EB545400" 
     alt="GitHub Streak"
     width="49%"
   />
-</a>
+</a> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1fa5&height=130&section=footer"/>
