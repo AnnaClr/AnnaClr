@@ -1,20 +1,55 @@
-<h1 align="center">
-  Olá, mundo!
-  <br>
-  Bem-vindos ao incrível mundo de <i>AnnaClr!</i>
-</h1>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFFFFF&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eprint(%22Hello%2C+World!%22);%3Eprintf(%22Hello%2C+World!%22);%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'AnnaClr';" alt="Typing SVG" /></a>
 
-![BANNER](https://github.com/user-attachments/assets/2255b041-c2e0-4a9a-bceb-4aa819ba06e4)
+![BANNER](https://github.com/user-attachments/assets/e1bdbeac-1ab9-44fa-8ba3-a5df80241d79)
+
+<p align="center">
+  <a href="https://github.com/AnnaClr">
+    <img src="https://img.shields.io/badge/GITHUB-12091F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/annaclrr">
+    <img src="https://img.shields.io/badge/LINKEDIN-12091F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/_annaclrr">
+    <img src="https://img.shields.io/badge/INSTAGRAM-12091F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+## ✦ About Me
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+Olá! Meu nome é **Anny** ✨
+
+Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, desenvolvimento de software e pela criação de soluções digitais que unem criatividade e lógica.
+
+Atualmente estou no quinto semestre da graduação e venho construindo minha trajetória na programação através de projetos envolvendo **Desenvolvimento Fullstack, Design UI/UX e Bancos de Dados**.
+
+Estou sempre buscando evoluir como desenvolvedora, aprimorar minhas habilidades e aprender novas ferramentas que me permitam criar soluções cada vez mais eficientes e inovadoras. 🚀
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eprint(%22Hello%2C+World!%22);%3Eprintf(%22Hello%2C+World!%22);%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'AnnaClr';" alt="Typing SVG" /></a>
+> "Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso."
+>
+> — Ada Lovelace
 
-Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Curso de Bacharelado em **Ciência da Computação**. Concluí um curso de **Desenvolvimento Web** em 2023, onde aprimorei minhas habilidades em React (Front-End) e Node.js (Back-End). Tenho experiência na criação de websites e no desenvolvimento de sistemas web, utilizando HTML, CSS, JavaScript e bancos de dados SQL. Estou sempre em busca de novos desafios e aprendizados para evoluir ainda mais nessa área! 🚀
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/user-attachments/assets/01c11832-6e38-41f1-b98c-7de0b6d5ebb8"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%93%9A+CURSOS+REALIZADOS:" alt="Typing SVG" /></a>
+## ✦ Education
 
 **_2024 - 2027_ | Bacharelado em Ciência da Computação**  
 *Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)*
@@ -27,110 +62,42 @@ Olá, mundo! Meu nome é Ana Clara, e atualmente estou no quinto semestre do Cur
 
 ---
 
-<a href="https://git.io/typing![Uploading icons8-python-200.png…]()
--svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%9A%80+MY+SKILLS:" alt="Typing SVG" /></a>
+## ✦ Tech Stack
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-           <img src="https://github.com/user-attachments/assets/f880f547-8bc6-4c51-a06d-d8d75bff3a50" width="100">
-          <br><b>HTML</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/b01b7faf-536c-4ceb-a07a-bb3af0489d39" width="100">
-          <br><b>CSS</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/8195964f-83f7-498a-91a8-16447bb21e0b" width="100">
-          <br><b>TypeScript</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/89df1656-a4bb-47b0-9aae-66ac156e7f47" width="100">
-          <br><b>Python</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/c905191e-c267-426e-a4b7-a02c3b427e27" width="100">
-          <br><b>JavaScript</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/f7a36c22-1e3f-4b34-b04f-aa75d9644145" width="100">
-          <br><b>Java</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/0b149914-7282-44e6-afa0-3f1260fc8676" width="100">
-          <br><b>C</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-       <td align="center">
-          <img src="https://github.com/user-attachments/assets/1157d031-f049-4992-8c22-cfee2a8fdc54" width="100">
-          <br><b>React</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/94604090-9427-45da-8f34-e32f53811172" width="100">
-          <br><b>NodeJS</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/a9d8f8d3-298b-4fca-891c-5e6dd4ecdb58" width="100">
-          <br><b>MySQL</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/1ef7322d-2e38-43f8-9195-50d681aedc30" width="100">
-          <br><b>PostgreSQL</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/15bd1850-72c3-43f9-835f-c983069d3055" width="100">
-          <br><b>Git</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/2a2a3000-a19e-4650-975b-1f83f302e220" width="100">
-          <br><b>Nest JS</b>
-        </a>
-      </td>
-      <td align="center">
-          <img src="https://github.com/user-attachments/assets/8ddf25ea-0a29-4873-be90-86b84b5ee1c6" width="100">
-          <br><b>Next.js</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+
+<img src="https://img.shields.io/badge/HTML5-12091F?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-12091F?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-12091F?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-12091F?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-12091F?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-12091F?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-12091F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-12091F?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
 <br>
+
+<img src="https://img.shields.io/badge/Python-12091F?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-12091F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-12091F?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-12091F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-12091F?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-12091F?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
 
 ---
 
-![AnnaClr's Stats](https://github-readme-stats.vercel.app/api?username=AnnaClr&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![AnnaClr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnaClr&theme=radical&hide_border=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnaClr&bg_color=2c223b&color=ff3ca2&line=f7f645&point=22e5f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaClr&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClr&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnaClr&bg_color=0d1117&color=ff80ff&line=ff0080&point=ff80c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --- 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=B868C5&width=587&lines=%F0%9F%A6%8B+CONECTE-SE+COMIGO!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFFFFF&width=587&lines=%F0%9F%A6%8B+CONECTE-SE+COMIGO!" alt="Typing SVG" /></a>
 
-<br>
-<p align="center">
-  <a href="https://github.com/AnnaClr" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="155"/>
-  </a>
-  <a href="https://linkedin.com/in/annaclrr" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="148"/>
-  </a>
-  <a href="https://instagram.com/_annaclrr">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="200"/>
-  </a>
-</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1fa5&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=footer"/>
